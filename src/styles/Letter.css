@@ -1,0 +1,28 @@
+.letter{
+    display: block;
+    margin: 50px;
+    box-shadow: 1cap;
+    margin-bottom: 20px;
+}
+
+.letter div{
+    display: block;
+}
+
+.italicFont {
+    font-family: "Eb-Garamond";
+}
+
+.bismillah {
+    text-align: center;
+}
+
+.ending{
+    text-align: right;
+}
+
+.sourceList{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+}
