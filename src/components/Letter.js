@@ -1,5 +1,6 @@
 import React from 'react'
 import "../styles/Letter.css"
+import SourceList from './SourceList'
 
 function Letter() {
   return (
@@ -26,18 +27,7 @@ function Letter() {
           Oct 12, 2023</div>
           <br></br>
           <br></br>
-      </div>
-      <div className='sourceList'>
-        <div className='bismillah'>An idea of where to start</div>
-        <a href='https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide'>A quick read on the history of the Palestinian and Israeli conflict</a>
-        <br></br>
-        <a href='https://israelpalestinenews.org/palestinian-resistance-launches-surprise-attack-on-israel-updates-to-come/'>Perspective on how one-sided this looks</a>
-        <br></br>
-        <a href='https://www.youtube.com/watch?v=c6c5W2RsvkE'>A deeper look at the roots of the land of Palestine back from the Crusades</a>
-        <br></br>
-        <a href='https://www.youtube.com/watch?v=8O2VRmwIzXA&pp=ygULZXBpYyBtYXNqaWQ%3D'>Contextualizing the Palestinian conflict in today's time</a>
-        <br></br>
-        <a href='https://en.wikipedia.org/wiki/Psychological_operations_(United_States)'>How the media is playing its part right now</a>
+          <SourceList></SourceList>
       </div>
     </>
   )
