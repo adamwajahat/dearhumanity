@@ -15,9 +15,9 @@ function Letter() {
           <br></br>
           <div>Welcome to where falsehood has become truth and truth has become falsehood.</div>
           <br></br>
-          <div><span className='italicFont'> Humanity?</span> I am dying. Can you feel the pain or not? <span className='italicFont'>Where have you gone? Why have you forgotten me?</span> As the war planes fly over our homes and food sources run dry, you stand around. Years of this cycle but now, this oppression, has murdered my name, the weak, as the tryant.</div>
+          <div><span className='italicFont'> Humanity?</span> I am dying. Can you feel the pain or not? <span className='italicFont'>Where have you gone? Why have you forgotten me?</span> As the war planes fly over our homes and food sources run dry, you stand around. Years of this cycle, but, now, this oppression, has murdered my name, the weak, as the tryant.</div>
           <br></br>
-          <div>To find me please, you first have to find the truth. Educate yourself and do not consume what you are shown. Then work on those around you. One individual at a time.</div>
+          <div>To find me, please, you first have to find the truth. Educate yourself and do not consume what you are shown. Then, work on those around you. One individual at a time.</div>
           <br></br>
           <div>Palestine, I am sorry. </div>
           <br></br>
