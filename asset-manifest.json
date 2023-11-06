@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.03b0795a.css",
-    "main.js": "/static/js/main.3a39e36a.js",
+    "main.css": "/static/css/main.5b407347.css",
+    "main.js": "/static/js/main.5ef478e4.js",
     "static/js/787.780c7a8c.chunk.js": "/static/js/787.780c7a8c.chunk.js",
+    "static/media/jimmy_carter.png": "/static/media/jimmy_carter.c15b430a0f5a27839afe.png",
     "static/media/HelveticaNeue-Bold.otf": "/static/media/HelveticaNeue-Bold.ebdcff04744534c6f7f2.otf",
     "static/media/EBGaramond-Italic.ttf": "/static/media/EBGaramond-Italic.a498ec9c34e6bbd355e5.ttf",
+    "static/media/ilan_pappe.png": "/static/media/ilan_pappe.12fcd1ee20bc4d7b13b7.png",
+    "static/media/norman_finkelstein.png": "/static/media/norman_finkelstein.6f6fa54411b5dd51ec6f.png",
+    "static/media/noam_chomsky.png": "/static/media/noam_chomsky.b49dbebcf2e33d98dee6.png",
+    "static/media/miko_peled.png": "/static/media/miko_peled.8f527bedc6e64b8dca3e.png",
+    "static/media/abby_martin.png": "/static/media/abby_martin.94231d12944af2f03dd3.png",
     "index.html": "/index.html",
-    "main.03b0795a.css.map": "/static/css/main.03b0795a.css.map",
-    "main.3a39e36a.js.map": "/static/js/main.3a39e36a.js.map",
+    "main.5b407347.css.map": "/static/css/main.5b407347.css.map",
+    "main.5ef478e4.js.map": "/static/js/main.5ef478e4.js.map",
     "787.780c7a8c.chunk.js.map": "/static/js/787.780c7a8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03b0795a.css",
-    "static/js/main.3a39e36a.js"
+    "static/css/main.5b407347.css",
+    "static/js/main.5ef478e4.js"
   ]
 }
