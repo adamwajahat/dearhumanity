@@ -6,7 +6,9 @@ function Letter() {
   return (
     <>
       <div className="letter">
-          <div className='bismillah'>Bismillahir Rahmanir Raheem</div>
+          <div className='bismillah'>In the name of Allah, The Most Gracious, The Most Merciful</div>
+          <br></br>
+          <br></br>
           <br></br>
           <br></br>
           <div className='italicFont'>Dear Humanity,</div>
@@ -21,13 +23,16 @@ function Letter() {
           <br></br>
           <div>Palestine, I am sorry. </div>
           <br></br>
-          <br></br>
-          <div className='ending'><span className='italicFont'>Allah please accept our duaas and forgive us for our weakness,</span>
+          <div className='ending'><span className='italicFont'>Allah please accept our prayers and forgive us for our weakness,</span>
           <br></br>
           Oct 12, 2023</div>
           <br></br>
           <br></br>
+          <br></br>
+          <br></br>
           <SourceList></SourceList>
+          <br></br>
+          <div className='email'>Want more letters? Email us at <a href='mailto:helpdearhumanity@gmail.com?subject=Letter List Subscriber&body=Hi! Please add me to the letter list. Thanks :)'>helpdearhumanity@gmail.com</a></div>
       </div>
     </>
   )
