@@ -1,11 +1,18 @@
 import React from 'react'
-import Letter from '../components/Letter'
+import '../styles/Home.css'
+import HomeLogo from '../components/HomeLogo'
+import Introduction from '../components/Introduction'
 
 function Home() {
 
   return (
     <>
-        <Letter/>
+        <HomeLogo/>
+        <Introduction/>
+        <br></br>
+        <div className='link'>
+            <a href='/letters'>Letters</a>
+        </div>
     </>
   )
 }
