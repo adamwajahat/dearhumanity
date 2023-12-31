@@ -14,3 +14,21 @@
     width: 100%;
     margin-bottom: 100px;
 }
+
+@media screen and (min-width: 1000px) {
+    .letterPage img {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .letterPage img {
+        width: 65%;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .letterPage img {
+        width: 50%;
+    }
+}

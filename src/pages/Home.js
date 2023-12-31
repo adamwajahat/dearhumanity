@@ -6,14 +6,16 @@ import Introduction from '../components/Introduction'
 function Home() {
 
   return (
-    <>
-        <HomeLogo/>
-        <Introduction/>
-        <br></br>
-        <div className='link'>
-            <a href='/letters'>Letters</a>
-        </div>
-    </>
+    <div className='HomeContainer'>
+      <div className='Home'>
+          <HomeLogo/>
+          <Introduction/>
+          <br></br>
+          <div className='link'>
+              <a href='/letters'>Letters</a>
+          </div>
+      </div>
+    </div>
   )
 }
 
