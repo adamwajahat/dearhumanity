@@ -1,0 +1,46 @@
+.letterDetailPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;    
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.letterDetailPage img {
+    width: 80%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.october-12-2023_opener{
+    width: 55% !important;
+    height: auto;
+}
+
+@media screen and (min-width: 1250px) {
+    .letterDetailPage img {
+        width: 50%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .october-12-2023_opener{
+        width: 40% !important;
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .letterDetailPage img {
+        width: 30%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .october-12-2023_opener{
+        width: 25% !important;
+        height: auto;
+    }
+}
