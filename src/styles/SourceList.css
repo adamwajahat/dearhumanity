@@ -1,0 +1,31 @@
+.bismillah {
+    text-align: center;
+}
+
+.links{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.bioImg{
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+@media screen and (min-width: 500px){
+    .sourceList{
+        margin-left: 60px;
+        margin-right: 60px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .bioImg{
+        width: 20%;
+        height: 20%;
+    }
+}

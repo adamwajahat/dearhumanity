@@ -1,0 +1,11 @@
+.custom-cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    font-size: 16px; 
+    color: black; 
+}
+
+.letterPage:hover {
+    cursor: none; 
+}

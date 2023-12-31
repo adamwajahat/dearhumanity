@@ -1,0 +1,19 @@
+.letter{
+    display: block;
+    margin: 50px;
+    box-shadow: 1cap;
+    margin-bottom: 20px;
+}
+
+.letter div{
+    display: block;
+}
+
+.ending{
+    text-align: right;
+}
+
+.email{
+    text-align: center;
+}
+

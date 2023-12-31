@@ -1,0 +1,34 @@
+.letterPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    flex-direction: column;
+}
+
+.letterPage img {
+    height: auto;
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+@media screen and (min-width: 1000px) {
+    .letterPage img {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .letterPage img {
+        width: 65%;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .letterPage img {
+        width: 50%;
+    }
+}
