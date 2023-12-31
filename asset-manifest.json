@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.007d363d.css",
-    "main.js": "/static/js/main.8546fe48.js",
+    "main.css": "/static/css/main.9d5bb9f3.css",
+    "main.js": "/static/js/main.18882a3c.js",
     "static/js/787.780c7a8c.chunk.js": "/static/js/787.780c7a8c.chunk.js",
-    "static/media/jimmy_carter.png": "/static/media/jimmy_carter.c15b430a0f5a27839afe.png",
+    "static/media/october-12-2023_pics.png": "/static/media/october-12-2023_pics.7c2037c1c530521f16e1.png",
+    "static/media/october-12-2023_letter1.png": "/static/media/october-12-2023_letter1.8cfc985a53eda96d0e94.png",
+    "static/media/october-12-2023_letter2.png": "/static/media/october-12-2023_letter2.e970640da67bdc4c16b5.png",
+    "static/media/october-12-2023_pic2.png": "/static/media/october-12-2023_pic2.2b2ce3fe39487273df40.png",
+    "static/media/october-12-2023_pic1.png": "/static/media/october-12-2023_pic1.4457ce56a4a51c7638c8.png",
+    "static/media/october-12-2023_pic3.png": "/static/media/october-12-2023_pic3.7cd21722efd85b2f9d76.png",
+    "static/media/oct12_letterpage.png": "/static/media/oct12_letterpage.7853e8e42f372c6bcb89.png",
+    "static/media/october-12-2023_opened_letter.png": "/static/media/october-12-2023_opened_letter.0cfd12ca7d74661f346d.png",
     "static/media/HelveticaNeue-Bold.otf": "/static/media/HelveticaNeue-Bold.ebdcff04744534c6f7f2.otf",
+    "static/media/home_logo_temp.png": "/static/media/home_logo_temp.43d9677f986a15f98155.png",
+    "static/media/october-12-2023_opener.png": "/static/media/october-12-2023_opener.33600bdfab1c68e37666.png",
     "static/media/EBGaramond-Italic.ttf": "/static/media/EBGaramond-Italic.a498ec9c34e6bbd355e5.ttf",
-    "static/media/ilan_pappe.png": "/static/media/ilan_pappe.12fcd1ee20bc4d7b13b7.png",
-    "static/media/norman_finkelstein.png": "/static/media/norman_finkelstein.6f6fa54411b5dd51ec6f.png",
-    "static/media/noam_chomsky.png": "/static/media/noam_chomsky.b49dbebcf2e33d98dee6.png",
-    "static/media/miko_peled.png": "/static/media/miko_peled.8f527bedc6e64b8dca3e.png",
-    "static/media/abby_martin.png": "/static/media/abby_martin.94231d12944af2f03dd3.png",
     "index.html": "/index.html",
-    "main.007d363d.css.map": "/static/css/main.007d363d.css.map",
-    "main.8546fe48.js.map": "/static/js/main.8546fe48.js.map",
+    "main.9d5bb9f3.css.map": "/static/css/main.9d5bb9f3.css.map",
+    "main.18882a3c.js.map": "/static/js/main.18882a3c.js.map",
     "787.780c7a8c.chunk.js.map": "/static/js/787.780c7a8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.007d363d.css",
-    "static/js/main.8546fe48.js"
+    "static/css/main.9d5bb9f3.css",
+    "static/js/main.18882a3c.js"
   ]
 }
