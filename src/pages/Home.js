@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/Home.css'
+import { Link } from 'react-router-dom';
 import HomeLogo from '../components/HomeLogo'
 import Introduction from '../components/Introduction'
 
@@ -12,7 +13,7 @@ function Home() {
           <Introduction/>
           <br></br>
           <div className='link'>
-              <a href='/letters'>Letters</a>
+            <Link to="/letters">Previous letters</Link>
           </div>
       </div>
     </div>
