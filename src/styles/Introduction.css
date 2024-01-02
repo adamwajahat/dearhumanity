@@ -2,10 +2,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 100%;
 }
 
-@media screen and (min-width: 1250px) {
+@media screen and (min-width: 1350px) {
     .introduction{
         width: 80%;
     }
@@ -13,6 +13,6 @@
 
 @media screen and (min-width: 1800px) {
     .introduction{
-        width: 50%0;
+        width: 50%;
     }
 }
